@@ -7,7 +7,9 @@ Time spent: **10** hours spent in total
 
 ## Video Walkthrough (GIF)
 
-![](https://i.imgur.com/asuxHNP.gif)
+![](https://i.imgur.com/kVvUbtR.gif)
+
+![](https://i.imgur.com/lefvWgh.gif)
 
 ## License
 
