@@ -7,7 +7,7 @@ Time spent: **10** hours spent in total
 
 ## Video Walkthrough (GIF)
 
-![](../../../Desktop/Maze.gif)
+![](https://i.imgur.com/asuxHNP.gif)
 
 ## License
 
